@@ -1,6 +1,6 @@
 const footerHTML = `      <div class="footer-container container">
         <div class="content_1">
-          <img src="./public/images/Logo.svg" alt="logo" />
+          <img src="../images/Logo.svg" alt="logo" />
           <p>
             Welcome to ShopKaro EcomStore, your ultimate destination for
             cutting-edge gadgets!
