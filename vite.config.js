@@ -10,6 +10,7 @@ export default defineConfig({
         contact : resolve(__dirname, "contact.html"),
         products : resolve(__dirname, "products.html"),
         addToCart : resolve(__dirname, "addToCart.html"),
+        footer : resolve(__dirname, "footer.js"),
       },
     },
   },
